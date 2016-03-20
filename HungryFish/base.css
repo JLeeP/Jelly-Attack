@@ -1,0 +1,11 @@
+canvas { padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+	border: 3px solid black;
+    display: block;
+    width: 50%;
+	/*background-color: #f1f1f1;*/
+	background-image: url("file://C:/Users/prend/Documents/CompSci/CSCI120/HungryFish/canvas.png");
+	background-size: 100% 100%;
+}
